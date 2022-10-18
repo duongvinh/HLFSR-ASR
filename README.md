@@ -11,7 +11,7 @@ We share pre-trained models of our HLFSR-ASR-C32 and HLFSR-ASR-C64, which are av
 * Matlab
 
 ### Dataset
-We use the processed data by [DistgASR](https://arxiv.org/pdf/2202.10603.pdf). Please download the dataset in the official repository of [DistgASR](https://github.com/YingqianWang/DistgASR).
+Please download the dataset in the official repository of [DistgASR](https://github.com/YingqianWang/DistgASR).
 
 ### Train:
 * Run **`Generate_Data_for_Training.m`** to generate training data.
