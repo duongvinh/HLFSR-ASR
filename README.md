@@ -1,5 +1,5 @@
 # Light Field Super-Resolution Network Using Joint Spatio-Angular and Epipolar Information
-This repository contains official pytorch implementation of "Light Field Super-Resolution Network Using Joint Spatio-Angular and Epipolar Information" submitted in IEEE Transactions on Computational Imaging 2022, by Vinh Van Duong, Thuc Nguyen Huu, Jonghoon Yim, and Byeungwoo Jeon.
+This repository contains official pytorch implementation of "Light Field Super-Resolution Network Using Joint Spatio-Angular and Epipolar Information" accepted in IEEE Transactions on Computational Imaging 2022, by Vinh Van Duong, Thuc Nguyen Huu, Jonghoon Yim, and Byeungwoo Jeon.
 
 ## Results
 We share pre-trained models of our HLFSR-ASR-C32 and HLFSR-ASR-C64, which are avaliable at https://drive.google.com/drive/u/2/folders/10mILrWAUx3XMfgLostJCI3rG-eYTJRJs
@@ -49,3 +49,9 @@ If you find this work helpful, please consider citing the following papers:<br>
 Our work and implementations are inspired and based on the following project: <br> 
 [DistgASR](https://github.com/YingqianWang/DistgASR)<br> 
 We sincerely thank the authors for sharing their code and amazing research work!
+<details> 
+<summary>visitors</summary>
+
+![views](https://visitor-badge.glitch.me/badge?page_id=duongvinh/HLFSR-ASR)
+
+</details> 
