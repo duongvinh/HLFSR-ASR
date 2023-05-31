@@ -49,9 +49,4 @@ If you find this work helpful, please consider citing the following papers:<br>
 Our work and implementations are inspired and based on the following project: <br> 
 [DistgASR](https://github.com/YingqianWang/DistgASR)<br> 
 We sincerely thank the authors for sharing their code and amazing research work!
-<details> 
-<summary>visitors</summary>
 
-![views](https://visitor-badge.glitch.me/badge?page_id=duongvinh/HLFSR-ASR)
-
-</details> 
